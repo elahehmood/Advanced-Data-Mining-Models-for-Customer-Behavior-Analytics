@@ -11,6 +11,7 @@ The analysis leverages datasets such as **Telco Churn**, **Criteo Uplift**, and 
 
 ## Table of Contents 📋
 * [Introduction](#introduction)
+* [Datasets](#datasets)
 * [Models Implemented](#models-implemented)
 * [Results & Insights](#results--insights)
 * [Conclusion & Future Work](#conclusion--future-work)
@@ -25,6 +26,15 @@ This project applies advanced modeling approaches to:
 - Estimate survival probabilities.  
 - Evaluate the impact of marketing interventions.  
 - Provide sequential product recommendations.  
+
+---
+
+## Datasets 📂
+We used publicly available datasets from Kaggle for analysis:  
+
+- **[Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)** – Customer churn data with demographics, contract info, and billing details.  
+- **[Criteo Uplift Modeling](https://www.kaggle.com/datasets/gauravduttakiit/criteo-uplift-modeling)** – Dataset for uplift modeling and treatment effect estimation.  
+- **[RetailRocket Recommender System Dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)** – Real-world e-commerce session and interaction logs for sequential recommendation tasks.  
 
 ---
 
